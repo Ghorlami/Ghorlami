@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ghorlami
+- 👀 I’m interested in learning c++
+- 🌱 I’m currently learning computer engineering at Federico II
+- 📫 How to reach me dm me on @umberto_gorlami
